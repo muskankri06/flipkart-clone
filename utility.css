@@ -1,6 +1,4 @@
-.bg-red{
-background-color: red;
-}
+
 .white{
     color: white;
 }
@@ -15,4 +13,11 @@ background-color: red;
 }
 .m-auto{
     margin: auto;
+}
+.p-36{
+
+    padding: 30px;
+}
+.cursor{
+    cursor: pointer;
 }

@@ -68,15 +68,43 @@ font-size: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 30px;
-
 }
 .images img{
-    height: 65px;
+    height: 60px;
     object-fit: contain;
-}
-.text{
-    margin: auto;
-  width: 27px;
+    cursor: pointer;
 }
 
+.images ul{
+    display: flex;
+    list-style: none;
+    cursor: pointer;
+}
+.images ul li {
+    border: 1px black;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.section3{
+    height: 168px;
+    width: 85vw;
+    background-color: white;
+    margin: auto;
+      margin-top: auto;
+    margin-left: auto;
+    margin-top: 15px;
+}
+.images3 img{
+    width: 85vw;
+}
+.section4{
+    height: 168px;
+    width: 85vw;
+    background-color: white;
+    margin: auto;
+      margin-top: auto;
+    margin-left: auto;
+    margin-top: 15px;
+}
