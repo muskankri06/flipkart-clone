@@ -100,11 +100,48 @@ font-size: 20px;
     width: 85vw;
 }
 .section4{
-    height: 168px;
+    height: 220px;
     width: 85vw;
     background-color: white;
     margin: auto;
       margin-top: auto;
     margin-left: auto;
     margin-top: 15px;
+    position: relative;
+    overflow: hidden;
+
+}
+.best{
+    padding: 8px;
+    width: 100vw;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.electronic2{
+    padding: 5px;
+   
+    
+}
+.sec4img{
+    margin: 4px;
+  
+    width: 172px;
+    height: 155px;
+    display: flex;
+    justify-content: center;
+}
+.img2 img{
+    object-fit: contain;
+    width: 100px;
+  height: 100px;
+}
+.text1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.imgr img{
+    height: 2px;
 }
