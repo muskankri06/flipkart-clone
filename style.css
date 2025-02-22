@@ -125,7 +125,6 @@ font-size: 20px;
 }
 .sec4img{
     margin: 4px;
-  
     width: 172px;
     height: 155px;
     display: flex;
@@ -145,3 +144,86 @@ font-size: 20px;
 .imgr img{
     height: 2px;
 }
+.input{
+    display: flex;
+    align-items: center;
+    height: 31px;
+    width: 372px;
+    background-color: rgba(240, 245, 255, 1);
+    border: none;
+    border-radius: 7px;
+    padding: 7px;
+}
+footer{
+    background-color: rgb(28, 26, 26);
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    position: relative;
+    bottom: -700px;
+    justify-content: center;
+}
+.about{
+    color: white;
+    list-style: none;
+margin: 20px;
+width: 30vw;
+}
+.about ul li{
+    list-style: none;
+}
+.groupcompanies{
+    width: 30vw;
+    color: white;
+    list-style: none;
+margin: 20px;
+}
+.groupcompanies ul li{
+    list-style: none;
+}
+.help{
+    width: 30vw;
+    color: white;
+    list-style: none;
+margin: 20px; 
+}
+.help ul li{
+    list-style: none;
+}
+.consumerpolicy{
+    color: white;
+    list-style: none;
+margin: 20px; 
+}
+.consumerpolicy ul li{
+    list-style: none;
+}
+.box4{
+    display: flex;
+}
+.mail{
+   width: 30vw;
+    color: white;
+    list-style: none;
+margin: 20px;
+}
+.mail ul li{
+    list-style: none;
+}
+.box5{
+    display: flex;
+    flex-direction: row;
+}
+.office{
+    width: 30vw;
+    color: white;
+    list-style: none;
+margin: 20px;
+}
+.office ul li{
+    list-style: none;
+
+}
+  
+  
+
